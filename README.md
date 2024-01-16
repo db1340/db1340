@@ -14,6 +14,20 @@ Currently coming from beautiful lands of New Zealand, I'm an indie coder who spe
 
 I started my days as a naive computer science student with the intention to one day create video games. With a new found passion to learn more of how the world of a software developer works I entered into Mission Ready upon becoming a 🥝 to further strengthen and deepen my knowledge. From understanding the theories and concepts to implementing actual projects, I aim to pursue this path using the accumulated knowledge I have gain throughout the years. I hope you will all join me in my journey to rise in the tech industry.   
 
+<div align="center"> 
+  <a href="mailto:darylbonilla1340@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/daryl-brian-bonilla-291b382a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/db1340?tab=repositories" target="_blank">
+     <img src="https://img.shields.io/badge/Repositories-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+
 <br/>
 <hr/>
 
