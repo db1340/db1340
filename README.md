@@ -39,7 +39,7 @@ I started my days as a naive computer science student with the intention to one 
  
 🔭 I’m currently working on: **something secret**
  
-🌱 I’m currently learning: **`Docker, AWS, Firebase`**
+🌱 I’m currently learning: **`Docker, AWS, Firebase, Vite, CI/CD`**
 
 💡 Fun facts: **Youtube started as a dating website💌💌💌**
 
@@ -62,7 +62,7 @@ I started my days as a naive computer science student with the intention to one 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
- <img src="https://streak-stats.demolab.com?user=db1340&theme=neon-palenight&card_width=500" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=db1340&theme=neon-palenight&card_width=550" alt="GitHub Streak" />
   <img width=500 src="https://github-readme-stats-dun-one-32.vercel.app/api?username=db1340&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=500 src="https://github-readme-stats-dun-one-32.vercel.app/api/top-langs/?username=db1340&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
