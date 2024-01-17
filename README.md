@@ -59,8 +59,8 @@ I started my days as a naive computer science student with the intention to one 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,ts,flutter,cs,figma,tailwind,dart" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,androidstudio,php,git,vscode,visualstudio,github,postman" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,ts,cs,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,php,git,vscode,visualstudio,github,postman" />
 </div>
 
 <br/>
