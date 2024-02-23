@@ -4,11 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=BA87F3&background=1414FF00&random=false&width=550&height=80&lines=%F0%9F%93%A2+Welcome+Coders!!!+%F0%9F%93%A2;I'm+Daryl+Brian+Bonilla+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%94%AC" alt="Typing SVG" />
 </h1>
 
-<hr/>
+<br/>
 
 <h2 align="center">👨‍💻 My Coding Journey</h2>
   
 **`From a Filipino CS Student to an Indie Kiwi Coder`**
+
+<br>
+
+![15a82f75-8c1c-455c-aa14-ca07602c581f](https://github.com/db1340/Mission-Ready-Project-0/assets/149652724/333c3a3c-25cd-4a57-a251-50a9ec0ac8f6)![h4psjbde_1708680245123_page-0001 (1)](https://github.com/db1340/Mission-Ready-Project-0/assets/149652724/1d174ee2-9d64-49f9-ba09-623b421c9981)
+
+<br>
 
 Currently coming from beautiful lands of New Zealand, I'm an indie coder who specializes in full-stack web development with some technical background of doing database design and creation, and knowledge of using C# and Flutter. 🚀 My expertise lies in creating scalable and responsive web applications, and cross-platform mobile applications with visually appealing user interfaces. 
 
@@ -48,7 +54,7 @@ I started my days as a naive computer science student with the intention to one 
 <br>
  </div>
  
-🔭 I’m currently working on: **something secret**
+🔭 I’m currently working on: **Unreal Engine**
 
 💡 Fun facts: **Youtube started as a dating website💌💌💌**
 
